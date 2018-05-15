@@ -1,151 +1,151 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
-charity.donated: Donated
-charity.more-info: More About IoTeX Charity Program
-charity.question: How did I know IoTeX? Why I am interested in it?
-charity.share-message: Share Your Act of Kindness!
-charity.to: To
+charity.donated: Donado
+charity.more-info: Más sobre el programa de caridad IoTeX
+charity.question: ¿Cómo sé IoTeX? ¿Por qué estoy interesado en eso?
+charity.share-message: ¡Comparte tu acto de bondad!
+charity.to: a 
 charity.tweet.summary.description: >-
-  We appreciate your Big Heart! Besides the one-time fixed 16,000 points
-  thank-you gift, now we put your good deed on IoTeX website!
+  ¡Apreciamos tu gran corazón! Además de los 16 000 puntos fijos de una sola vez
+  gracias regalo, ahora ponemos su buena acción en el sitio web de IoTeX!
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
-charity.tweet.summary.title: You are on the IoTeX Honor Board!
-claim.btn: CLAIM YOUR POINTS
-contact.btn: CONTACT US
-contact.desc: IoTeX experts are ready to answer your questions via support@iotex.io
-contact.title: STAY IN TOUCH
-ethFoundation: Ethereum Foundation
-hall-of-fame.badge-section.title: IoTeX 1st Charity Program — ETH Foundation
+charity.tweet.summary.title: ¡Estás en la Junta de Honor IoTeX!
+claim.btn: RECLAMA TUS PUNTOS
+contact.btn: CONTÁCTENOS
+contact.desc: Los expertos de IoTeX están listos para responder sus preguntas a través de support@iotex.io
+contact.title: MANTENTE EN CONTACTO
+ethFoundation: Fundación Ethereum
+hall-of-fame.badge-section.title: IoTeX 1st Charity Program - Fundación ETH
 hall-of-fame.badge-section.unicorn.desc: >
-  Ethereum has revolutionized the blockchain world for the past four years and
-  made “blockchain” the newest buzzword. As an industry leader, Ethereum has
-  provided <a target="_blank"
+  Ethereum ha revolucionado el mundo de la cadena de bloques durante los últimos cuatro años y
+  hizo que "blockchain" fuera la nueva palabra de moda. Como líder de la industria, Ethereum tiene
+  previsto <a target="_blank"
   href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
-  to fuel researchers and developers to work on various forefronts to support
-  the entire blockchain ecosystem. IoTeX strongly believes that we can move
-  forward the entire industry through rigorous research and collaboration. We
-  need talents and the brightest minds to make a splash in the world. A small
-  yet powerful way for you to help our cause is to donate ETH to the Ethereum
-  Foundation to help fund blockchain research.
+  para alimentar a los investigadores y desarrolladores para trabajar en varias frentes para apoyar
+  todo el ecosistema blockchain. IoTeX cree firmemente que podemos movernos
+  reenviar toda la industria a través de una investigación y colaboración rigurosa. Nosotros
+  necesitan talentos y las mentes más brillantes para causar sensación en el mundo. Un pequeño
+  Sin embargo, una forma poderosa para ayudar a nuestra causa es donar ETH a la 
+  Fundación Ethereum para ayudar a financiar la investigación blockchain.
 
 
-  For participation detail, please join official <a target="_blank"
-  href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
-  messages.
+  Para detalles de participación, por favor únete al oficial <a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a> y estad atentos a los pinned
+  mensajes.
 
 
-  Check more detail at <a target="_blank"
+  Ver más detalles en <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
-  1st Charity Program Update</a>.
-hall-of-fame.search.label: Search by your hashid or Preferred Display Name
+  Primera actualización del programa de caridad</a>.
+hall-of-fame.search.label: Busque por su hashid o nombre de pantalla preferido
 hall-of-fame.thank-you.message: >
-  Crowdsourcing as a way to fund a specific cause for a charity is not new, but
-  IoTeX is doing it via “smart contracts” and redirecting the cryptocurrency
-  hype to charitable causes. In the next few months, under its Community Reward
-  Program, IoTeX will continue selecting a few charity programs that align with
-  IoTeX’s mission of “Connecting the Physical World, Block by Block” as part of
-  IoTeX’s Community Reward Program.
+  El crowdsourcing como una forma de financiar una causa específica para una obra de caridad no es nuevo, pero
+  IoTeX lo está haciendo a través de "contratos inteligentes" y redirigiendo la criptomoneda
+  bombo a causas benéficas. En los próximos meses, bajo su recompensa comunitaria
+  Programa, IoTeX continuará seleccionando algunos programas de caridad que se alinean con
+  La misión de IoTeX de "Conectar el mundo físico, bloquear por bloque" como parte de
+  Programa de Recompensas Comunitarias de IoTeX.
 
 
-  IoTeX believes in growing together with the community and connecting the
-  physical world block by block. It’s a very ambitious goal but it can be
-  achieved with a strong team and supportive community. Together with the
-  community to push the frontier for the development of the blockchain
-  ecosystem, IoTeX truly hopes that the community can understand the original
-  intention and help promote the cause.
+  IoTeX cree en crecer junto con la comunidad y conectar el
+  mundo físico bloque por bloque. Es un objetivo muy ambicioso, pero puede ser
+  logrado con un equipo fuerte y una comunidad de apoyo. Junto con el
+  comunidad para impulsar la frontera para el desarrollo de la cadena de bloques
+  ecosistema, IoTeX realmente espera que la comunidad pueda entender el original
+  intención y ayudar a promover la causa.
 hall-of-fame.title: IoTeX Charity
 home.about.inno.0.desc.keep: >-
-  Support millions of nodes with instant finality and low latency,
-  environment-friendly, designed for IoT
+  Admite millones de nodos con finalidad instantánea y baja latencia,
+  respetuoso del medio ambiente, diseñado para IoT
 home.about.inno.0.title.keep: Fast Consensus
 home.about.inno.1.desc.keep: >-
-  Like Plasma, pull states off the root chain to further boost privacy,
-  scalability and interoperability; Innovated cross-chain transferring of value
-  and data
-home.about.inno.1.title.keep: Blockchain in Blockchains
+  Al igual que Plasma, retire los estados de la cadena raíz para aumentar aún más la privacidad,
+  escalabilidad e interoperabilidad; Transferencia de valor innovadora entre cadenas
+  y datos
+home.about.inno.1.title.keep: Blockchain en Blockchains
 home.about.inno.2.desc.keep: >-
-  Maximize privacy with innovative crypto schemes like lightweight stealth
-  address and constant size ring signature
-home.about.inno.2.title.keep: Built-in Privacy-preserving Techniques
-home.about.inno.3.desc.keep: 'Decentralized Autonomous Organization for IoT, code is law for the robot world'
-home.about.inno.3.title.keep: Autonomous Device Coordination
+  Maximice la privacidad con esquemas de criptografía innovadores, como el sigilo liviano
+  dirección y tamaño constante de la firma del anillo
+home.about.inno.2.title.keep: Técnicas de preservación de privacidad incorporadas
+home.about.inno.3.desc.keep: 'Organización autónoma descentralizada para IoT, el código es ley para el mundo de los robots'
+home.about.inno.3.title.keep: Coordinación de dispositivo autónomo
 home.about.sol.desc1: >-
-  Despite its rapid evolution, IoT is still far from reaching mass adoption and
-  lacks “killer applications” that would draw new users to the ecosystem due to
-  issues such as low scalability, high operating cost, privacy concerns and lack
-  of functional values.
+  A pesar de su rápida evolución, IoT todavía está lejos de alcanzar la adopción masiva y
+  carece de "aplicaciones asesinas" que atraerían nuevos usuarios al ecosistema debido a
+  problemas tales como baja escalabilidad, altos costos de operación, preocupaciones de privacidad y falta
+  de valores funcionales.
 home.about.sol.desc2: >-
-  IoTeX is tackling this problem by introducing token economy into IoT spaces as
-  we strongly believe that crypto incentives as well as the community effort are
-  the two key forces to propel innovations in IoT space. In short, IoTeX is the
-  next generation IoT-oriented blockchain platform with strong scalability,
-  privacy, isolatability and developability for incubating new IoT applications
-  and ecosystems.
-home.decentralized-protocol: A Decentralized Network for Internet of Things
+  IoTeX está abordando este problema mediante la introducción de la economía de tokens en espacios de IoT como
+  creemos firmemente que los incentivos criptográficos, así como el esfuerzo de la comunidad son
+  las dos fuerzas clave para impulsar innovaciones en el espacio de IoT. En resumen, IoTeX es el
+  plataforma blockchain orientada a IoT de próxima generación con gran escalabilidad,
+  privacidad, aislabilidad y capacidad de desarrollo para incubar nuevas aplicaciones de IoT
+  y ecosistemas.
+home.decentralized-protocol: Una red descentralizada para Internet de las cosas
 home.dustin.desc.keep: >-
-  Ph.D in Data Security at USC. Staff software engineer at Intel. 12 years of
-  expertise in distributed systems, content protection, hardware video
-  acceleration, network video streaming, graphics driver. Cryptography and
-  blockchain enthusiast.
+  Doctorado en Seguridad de Datos en la USC. Ingeniero de software del personal en Intel. 12 años de
+  experiencia en sistemas distribuidos, protección de contenido, video de hardware
+  aceleración, transmisión de video en red, controlador de gráficos. Criptografía y
+  entusiasta de blockchain.
 home.dustin.name.keep: Dustin Xie
-home.dustin.title.keep: Blockchain Engineer
+home.dustin.title.keep: Ingeniero de cadena de bloques
 home.fan.desc.keep: >-
-  Previously served as a Founding Partner of Sequoia Capital China, and a
-  Director of DFJ ePlanet Ventures. Ranked by Forbes as one of leading venture
-  capitalists in its annual China's Midas List.
+  Anteriormente se desempeñó como socio fundador de Sequoia Capital China, y un
+  Director de DFJ ePlanet Ventures. Clasificada por Forbes como una de las empresas líderes
+  capitalistas en su lista anual de Midas de China.
 home.fan.name.keep: Fan Zhang
 home.fan.title.keep: null
 home.guang.desc.keep: >-
-  IEEE Fellow. Professor in University of Waterloo, Canada. Top Scientist in
-  cryptography and lightweight cryptography, ad hoc network and Radio Frequency
-  Identification (RFID) security.
+  Compañero IEEE. Profesor en la Universidad de Waterloo, Canadá. Top Scientist en
+  criptografía y criptografía ligera, red ad hoc y radiofrecuencia
+  Seguridad de identificación (RFID).
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
 home.jack.desc.keep: >-
-  Co-Founding Managing Partner of HCM Capital, Foxconn Technology Group.
-  Co-Founder and Executive Director of Chained Finance Ltd., Founder & Executive
-  Director of FnConn, and Board Director of Abra.
+  Socio gerente cofundador de HCM Capital, Foxconn Technology Group.
+  Cofundador y director ejecutivo de Chained Finance Ltd., fundador y ejecutivo
+  Director de FnConn y Director de la Junta de Abra.
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
 home.jing.desc.keep: >-
-  Founding partner of Sparkland Capital, focusing on Frontier Tech, lead 40+
-  investments and innovations in blockchain, security and IoT. Board director on
-  numerous companies. Extensive experience in startup, investments and building
-  up ecosystem.
+  Socio fundador de Sparkland Capital, enfocándose en Frontier Tech, lidera más de 40
+  inversiones e innovaciones en blockchain, seguridad e IoT. Director de la Junta en
+  numerosas empresas. Amplia experiencia en startup, inversiones y construcción
+  hasta el ecosistema.
 home.jing.name.keep: Jing Sun
-home.jing.title.keep: Co-founder
+home.jing.title.keep: Cofundador
 home.larry.desc.keep: >-
-  Management consultant at Oliver Wyman, specialized in digital operations. Dual
-  B.S. in Finance & Economics, minor in Visual Arts & Design from MIT.
-  Blockchain and IoT enthusiast.
+  Consultor de gestión en Oliver Wyman, especializado en operaciones digitales. Doble
+ B.S. en Finanzas y Economía, menor en Artes Visuales y Diseño de MIT.
+  Entusiasta de Blockchain y IoT.
 home.larry.name.keep: Larry Pang
-home.larry.title.keep: Growth & Community
+home.larry.title.keep: Crecimiento y comunidad
 home.monika.desc.keep: >-
-  Technology communications specialist with deep expertise in cybersecurity,
-  privacy, networking and emerging technologies.
+  Especialista en comunicaciones tecnológicas con amplia experiencia en ciberseguridad,
+  privacidad, redes y tecnologías emergentes.
 home.monika.name.keep: Monika Hathaway
-home.monika.title.keep: Communication
+home.monika.title.keep: Comunicación
 home.paddy.desc.keep: >-
-  Senior Software Engineer at Microsoft, specialized in distributed systems.
-  Active contributor to open source projects. M.S. Computer Science at Yale
-  University.
+  Ingeniero Senior de Software en Microsoft, especializado en sistemas distribuidos.
+  Colaborador activo en proyectos de código abierto. SRA. Informática en Yale
+  Universidad.
 home.paddy.name.keep: Paddy Kan
-home.paddy.title.keep: Distributed Systems
-home.powered-by: Powered by a Privacy-Centric Blockchain
+home.paddy.title.keep: Sistemas distribuidos
+home.powered-by: Desarrollado por una Blockchain centrado en la privacidad
 home.qevan.desc.keep: >-
-  Ph.D in Machine Learning and Computer Vision at National University of
-  Singapore. Engineering Manager and Research Scientist at Facebook. Growth
-  Hacker. Startup investor and advisor. 20+ publications / patents.
+  Doctorado en Aprendizaje Automático y Visión por Computadora en la Universidad Nacional de
+  Singapur. Gerente de Ingeniería e Investigador Científico en Facebook. Crecimiento
+  Hacker. Inversor y asesor de inicio. Más de 20 publicaciones / patentes.
 home.qevan.name.keep: Qevan Guo
-home.qevan.title.keep: Co-founder
+home.qevan.title.keep: Cofundador
 home.raullen.desc.keep: >-
-  Ph.D and Research Scientist in Cryptography at UWaterloo. Head of Crypto R&D
-  at Uber, Security Engineer at Google.  8+ years of experience in cryptography
-  and blockchain.
+  Doctorado e investigador científico en Criptografía en UWaterloo. Jefe de Crypto R & D
+  en Uber, ingeniero de seguridad en Google. Más de 8 años de experiencia en criptografía
+  y blockchain.
 home.raullen.name.keep: Raullen Chai
-home.raullen.title.keep: Co-founder
+home.raullen.title.keep: Cofundador
 home.section.advisors: IoTeX.Advisors
 home.section.arch: IoTeX.Architecture
 home.section.innovations: IoTeX.Innovations
@@ -156,36 +156,36 @@ home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Background
 home.section.useceses: IoTeX.UseCases
 home.site.description: >-
-  A Decentralized Network for Internet of Things (IoT), Powered by a
-  Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
-  World, Block by Block.
-home.slogan: Connecting the Physical World Block by Block
+  Una red descentralizada para Internet de las cosas (IoT), con tecnología de
+  Auto-escalable, extensible, Private-Centric Blockchain. Conectando el Físico
+ Mundo, bloque por bloque.
+home.slogan: Conectando el Bloque Mundo Físico por Bloque
 home.xinxin.desc.keep: >-
-  Ph.D in Cryptography at UWaterloo. Sr. Research Engineer at Bosch Research. 14
-  years of research and industry experience in information security and crypto.
-  40+ publications / patents.
+  Doctorado en criptografía en UWaterloo. Sr. Research Engineer en Bosch Research. 14
+  años de experiencia en investigación e industria en seguridad de la información y criptografía.
+  Más de 40 publicaciones / patentes.
 home.xinxin.name.keep: Xinxin Fan
-home.xinxin.title.keep: Head of Cryptography
+home.xinxin.title.keep: Jefe de criptografía
 home.zhefeng.desc.keep: >-
-  Master in Computer Science at University of California San Diego and Bachelor
-  in Mathematics and Computer Science at University of Wisconsin-Madison.
-  Blockchain technology, machine learning, and Internet of Things enthusiast.
+  Maestría en Ciencias de la Computación en la Universidad de California en San Diego y Licenciatura
+  en Matemáticas e Informática en la Universidad de Wisconsin-Madison.
+  Tecnología de cadena de bloques, aprendizaje de máquinas e entusiasta de Internet de las cosas.
 home.zhefeng.name.keep: Zhefeng Li
-home.zhefeng.title.keep: Blockchain Engineer
+home.zhefeng.title.keep: Ingeniero de cadena de bloques
 stonevan.twitter: >-
-  I just got 100 free points from IoTeX by celebrating their first Testnet
-  Preview release. @iotex_io Come and get yours!
-subscribe.btn: SUBSCRIBE
-subscribe.desc: With our latest progress and events.
-subscribe.title: STAY UPDATED
-testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
-testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
-testnet-preview.released-title: Testnet Preview Has Been Released On
+  Acabo de recibir 100 puntos gratis de IoTeX celebrando su primer Testnet
+  Lanzamiento de vista previa. @iotex_io ¡Ven a buscar el tuyo!
+subscribe.btn: SUSCRIBIR
+subscribe.desc: Con nuestros últimos avances y eventos.
+subscribe.title: MANTENTE ACTUALIZADO
+testnet-preview.home-title: Testnet Preview (StoneVan) se lanzará en
+testnet-preview.released-event-title: ¡Nuestra vista previa de Testnet ha sido lanzada!
+testnet-preview.released-title: Testnet Preview ha sido lanzado en
 topbar.blog: BLOG
-topbar.careers: CAREERS
-topbar.charity: CHARITY
+topbar.careers: CARRERAS
+topbar.charity: CARIDAD
 topbar.faq: FAQ
 topbar.home: HOME
 topbar.white-paper: WHITE PAPER
-whitepaper.button.next: NEXT
-whitepaper.button.previous: PREVIOUS
+whitepaper.button.next: SIGUIENTE
+whitepaper.button.previous: ANTERIOR
