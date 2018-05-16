@@ -1,0 +1,191 @@
+about.this.file: >-
+  Strings in different locales are auto-generated and maintained by
+  locale_strings.js.
+charity.donated: दान
+charity.more-info: IoTeX चैरिटी कार्यक्रम के बारे में अधिक जानकारी
+charity.question: मैं आईओटीएक्स कैसे जानता था? मुझे इसमें दिलचस्पी क्यों है?
+charity.share-message: दयालुता के अपने अधिनियम को साझा करें!
+charity.to: सेवा मे
+charity.tweet.summary.description: >-
+  हम आपके बड़े दिल की सराहना करते हैं! एक बार तय 16,000 अंक के अलावा
+ धन्यवाद उपहार, अब हम IoTeX वेबसाइट पर अपना अच्छा काम करते हैं!
+charity.tweet.summary.image: >-
+  https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
+charity.tweet.summary.title: आप IoTeX ऑनर्स बोर्ड पर हैं!
+claim.btn: अपने अंक का दावा करें
+contact.btn: हमसे संपर्क करें
+contact.desc: IoTeX विशेषज्ञ support@iotex.io के माध्यम से आपके प्रश्नों के उत्तर देने के लिए तैयार हैं
+contact.title: संपर्क में रहना
+ethFoundation: Ethereum फाउंडेशन
+hall-of-fame.badge-section.title: IoTeX 1 चैरिटी प्रोग्राम - ETH फाउंडेशन
+hall-of-fame.badge-section.unicorn.desc: >
+  Ethereum ने पिछले चार वर्षों से ब्लॉकचेन दुनिया में क्रांतिकारी बदलाव किया है
+  नवीनतम buzzword "blockchain" बनाया। एक उद्योग के नेता के रूप में, Ethereum 
+  प्रदान किया है <a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
+  शोधकर्ताओं और डेवलपर्स को समर्थन देने के लिए विभिन्न अग्रभागों पर काम करने के लिए
+  पूरे ब्लॉकचेन पारिस्थितिकी तंत्र। IoTeX दृढ़ता से विश्वास करता है कि हम स्थानांतरित कर सकते हैं
+  कठोर अनुसंधान और सहयोग के माध्यम से पूरे उद्योग को आगे बढ़ाएं। हम
+  दुनिया में एक छप बनाने के लिए प्रतिभा और सबसे चमकीले दिमाग की जरूरत है। एक छोटा
+  हमारे कारण की मदद करने के लिए अभी तक शक्तिशाली तरीका एथेरियम को ईटीएच दान करना है
+  फाउंडेशन ब्लॉक ब्लॉक में मदद करने के लिए फाउंडेशन।
+
+
+ भागीदारी के विवरण के लिए, कृपया आधिकारिक में शामिल हों <a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a> और पिन किए गए संदेशों को देखते रहें।
+
+
+  अधिक जानकारी जांचें <a target="_blank"
+  href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
+  पहला चैरिटी कार्यक्रम अपडेट</a>.
+hall-of-fame.search.label: अपने हैशिड या पसंदीदा प्रदर्शन नाम से खोजें
+hall-of-fame.thank-you.message: >
+  दान के लिए एक विशिष्ट कारण को निधि देने के तरीके के रूप में क्रॉडसोर्सिंग नया नहीं है, लेकिन
+  IoTeX इसे "Smart COntracts" के माध्यम से कर रहा है और क्रिप्टोकुरेंसी को पुनर्निर्देशित कर रहा है
+  धर्मार्थ कारणों के लिए प्रचार। अगले कुछ महीनों में, इसके सामुदायिक पुरस्कार के तहत
+  कार्यक्रम, IoTeX कुछ दान कार्यक्रमों का चयन जारी रखेगा जो संरेखित हैं
+  IoTeX का लक्ष्य "भौतिक संसार को जोड़ने, ब्लॉक द्वारा ब्लॉक" का हिस्सा है
+  IoTeX का सामुदायिक पुरस्कार कार्यक्रम।
+
+
+  IoTeX समुदाय के साथ एक साथ बढ़ने और कनेक्ट करने में विश्वास करता है
+  ब्लॉक द्वारा भौतिक दुनिया ब्लॉक। यह एक बहुत ही महत्वाकांक्षी लक्ष्य है लेकिन यह हो सकता है
+  एक मजबूत टीम और सहायक समुदाय के साथ हासिल किया। इसके साथ
+  ब्लॉकचेन के विकास के लिए सीमा को धक्का देने के लिए समुदाय
+  पारिस्थितिक तंत्र, IoTeX वास्तव में उम्मीद करता है कि समुदाय मूल को समझ सकता है
+  इरादा और कारण को बढ़ावा देने में मदद करें।
+hall-of-fame.title: IoTeX चैरिटी
+home.about.inno.0.desc.keep: >-
+  तत्काल अंतिमता और कम विलंबता के साथ लाखों नोड्स का समर्थन करें,
+  IoT के लिए डिजाइन पर्यावरण अनुकूल
+home.about.inno.0.title.keep: Fast Consensus
+home.about.inno.1.desc.keep: >-
+  प्लाज्मा की तरह, गोपनीयता को और बढ़ावा देने के लिए जड़ श्रृंखला से राज्यों को खींचें,
+  मापनीयता और अंतःक्रियाशीलता; मूल्यवान स्थानांतरित करने वाली नवाचारी क्रॉस-चेन
+  और डेटा
+home.about.inno.1.title.keep: Blockchain में Blockchains
+home.about.inno.2.desc.keep: >-
+ lightweight stealth जैसे अभिनव क्रिप्टो योजनाओं के साथ गोपनीयता को अधिकतम करें
+  पता और निरंतर आकार अंगूठी हस्ताक्षर
+home.about.inno.2.title.keep: अंतर्निहित गोपनीयता-संरक्षण तकनीकों
+home.about.inno.3.desc.keep: 'IoT के लिए विकेंद्रीकृत स्वायत्त संगठन, कोड रोबोट दुनिया के लिए कानून है'
+home.about.inno.3.title.keep: स्वायत्त डिवाइस समन्वय
+home.about.sol.desc1: >-
+  इसके तीव्र विकास के बावजूद, आईओटी अभी भी बड़े पैमाने पर गोद लेने तक पहुंचने से दूर है
+  "हत्यारा अनुप्रयोग" की कमी है जो नए उपयोगकर्ताओं को पारिस्थितिकी तंत्र में आकर्षित करेगी
+  कम स्केलेबिलिटी, उच्च परिचालन लागत, गोपनीयता चिंताओं और कमी जैसे मुद्दों
+  कार्यात्मक मूल्यों का।
+home.about.sol.desc2: >-
+  IoTeX IoT रिक्त स्थान में टोकन अर्थव्यवस्था को पेश करके इस समस्या का सामना कर रहा है
+  हम दृढ़ता से मानते हैं कि क्रिप्टो प्रोत्साहन के साथ-साथ समुदाय के प्रयास भी हैं
+  IoT अंतरिक्ष में नवाचारों को बढ़ावा देने के लिए दो प्रमुख ताकतों। संक्षेप में, IoTeX है
+  मजबूत स्केलेबिलिटी के साथ अगली पीढ़ी आईओटी उन्मुख ब्लॉकचेन प्लेटफॉर्म,
+  नए IoT अनुप्रयोगों को उगालने के लिए गोपनीयता, अलगाव और विकासशीलता
+  और पारिस्थितिक तंत्र।
+home.decentralized-protocol: Things के इंटरनेट के लिए एक विकेंद्रीकृत नेटवर्क 
+home.dustin.desc.keep: >-
+  यूएससी में डेटा सुरक्षा में पीएचडी। इंटेल पर स्टाफ सॉफ्टवेयर इंजीनियर। 12 साल
+  वितरित सिस्टम, सामग्री संरक्षण, हार्डवेयर वीडियो में विशेषज्ञता
+  त्वरण, नेटवर्क वीडियो स्ट्रीमिंग, ग्राफिक्स ड्राइवर। क्रिप्टोग्राफी और
+  ब्लॉकचेन उत्साही।
+home.dustin.name.keep: Dustin Xie
+home.dustin.title.keep: ब्लॉकचेन अभियंता
+home.fan.desc.keep: >-
+  पहले सेक्वॉया कैपिटल चीन के एक संस्थापक साथी के रूप में कार्य किया, और ए
+  डीएफजे ईप्लानेट वेंचर्स के निदेशक। प्रमुख उद्यमों में से एक के रूप में फोर्ब्स द्वारा रैंक किया गया
+  पूंजीपति अपनी वार्षिक चीन की मिडास सूची में।
+home.fan.name.keep: Fan Zhang
+home.fan.title.keep: null
+home.guang.desc.keep: >-
+  IEEE फेलो वाटरलू विश्वविद्यालय, कनाडा में प्रोफेसर। शीर्ष वैज्ञानिक में
+  क्रिप्टोग्राफी और हल्के क्रिप्टोग्राफी, विज्ञापन नेटवर्क और रेडियो फ्रीक्वेंसी
+  पहचान (आरएफआईडी) सुरक्षा।
+home.guang.name.keep: Guang Gong
+home.guang.title.keep: null
+home.jack.desc.keep: >-
+  एचसीएम कैपिटल, फॉक्सकॉन टेक्नोलॉजी ग्रुप के सह-संस्थापक प्रबंधन भागीदार।
+  सह-संस्थापक और कार्यकारी निदेशक चेन फाइनेंस लिमिटेड, संस्थापक और कार्यकारी
+  एफएनकॉन के निदेशक, और अबरा के बोर्ड निदेशक।
+home.jack.name.keep: Jack Lee
+home.jack.title.keep: null
+home.jing.desc.keep: >-
+  स्पार्कलैंड कैपिटल के संस्थापक साथी, फ्रंटियर टेक पर ध्यान केंद्रित करते हुए, 40+ का नेतृत्व करते हैं
+  ब्लॉकचेन, सुरक्षा और आईओटी में निवेश और नवाचार। बोर्ड निदेशक पर
+  कई कंपनियों। स्टार्टअप, निवेश और भवन में व्यापक अनुभव
+  अप पारिस्थितिक तंत्र।
+home.jing.name.keep: Jing Sun
+home.jing.title.keep: सह संस्थापक
+home.larry.desc.keep: >-
+  डिजिटल ऑपरेशंस में विशेष रूप से ओलिवर वाईमैन में प्रबंधन परामर्शदाता। दोहरी
+  बी.एस. वित्त और अर्थशास्त्र में, एमआईटी से विजुअल आर्ट्स और डिजाइन में मामूली।
+  ब्लॉकचेन और आईओटी उत्साही।
+home.larry.name.keep: Larry Pang
+home.larry.title.keep: विकास और समुदाय
+home.monika.desc.keep: >-
+  साइबर सुरक्षा में गहरी विशेषज्ञता के साथ प्रौद्योगिकी संचार विशेषज्ञ,
+  गोपनीयता, नेटवर्किंग और उभरती प्रौद्योगिकियां।
+home.monika.name.keep: Monika Hathaway
+home.monika.title.keep: संचार
+home.paddy.desc.keep: >-
+  माइक्रोसॉफ्ट में वरिष्ठ सॉफ्टवेयर इंजीनियर, वितरित सिस्टम में विशिष्ट।
+  स्रोत परियोजनाओं को खोलने के लिए सक्रिय योगदानकर्ता। सुश्री। येल में कंप्यूटर साइंस
+  विश्वविद्यालय।
+home.paddy.name.keep: Paddy Kan
+home.paddy.title.keep: वितरित प्रणाली
+home.powered-by: 
+एक गोपनीयता-केंद्रित ब्लॉकचेन द्वारा संचालित
+home.qevan.desc.keep: >-
+  नेशनल यूनिवर्सिटी में मशीन लर्निंग और कंप्यूटर विजन में पीएचडी
+  सिंगापुर। फेसबुक पर इंजीनियरिंग मैनेजर और रिसर्च वैज्ञानिक। विकास
+  हैकर। स्टार्टअप निवेशक और सलाहकार। 20+ प्रकाशन / पेटेंट।
+home.qevan.name.keep: Qevan Guo
+home.qevan.title.keep: सह संस्थापक
+home.raullen.desc.keep: >-
+  UWaterloo में क्रिप्टोग्राफी में पीएचडी और रिसर्च वैज्ञानिक। क्रिप्टो आर एंड डी के प्रमुख
+  उबर में, Google पर सुरक्षा अभियंता। क्रिप्टोग्राफी में 8+ साल का अनुभव
+  और ब्लॉकचेन।
+home.raullen.name.keep: Raullen Chai
+home.raullen.title.keep: सह संस्थापक
+home.section.advisors: IoTeX.Advisors
+home.section.arch: IoTeX.Architecture
+home.section.innovations: IoTeX.Innovations
+home.section.investors: IoTeX.Investors
+home.section.partners: IoTeX.StrategicPartners
+home.section.roadmap: IoTeX.Roadmap
+home.section.team: IoTeX.Team
+home.section.teamfrom: IoTeX.Team.Background
+home.section.useceses: IoTeX.UseCases
+home.site.description: >-
+  इंटरनेट के लिए एक विकेंद्रीकृत नेटवर्क (आईओटी), एक द्वारा संचालित
+  ऑटो स्केलेबल, एक्स्टेंसिबल, प्राइवेट-सेंट्रिक ब्लॉकचेन। शारीरिक कनेक्टिंग
+  विश्व, ब्लॉक द्वारा ब्लॉक।
+home.slogan: ब्लॉक द्वारा भौतिक विश्व ब्लॉक को जोड़ना
+home.xinxin.desc.keep: >-
+  UWaterloo में क्रिप्टोग्राफी में पीएचडी। बॉश रिसर्च में सीनियर रिसर्च इंजीनियर। 14
+  सूचना सुरक्षा और क्रिप्टो में अनुसंधान और उद्योग के अनुभव के वर्षों।
+  40+ प्रकाशन / पेटेंट।
+home.xinxin.name.keep: Xinxin Fan
+home.xinxin.title.keep: क्रिप्टोग्राफी के प्रमुख
+home.zhefeng.desc.keep: >-
+  कैलिफ़ोर्निया विश्वविद्यालय सैन डिएगो और बैचलर में कंप्यूटर साइंस में मास्टर
+  विस्कॉन्सिन-मैडिसन विश्वविद्यालय में गणित और कंप्यूटर विज्ञान में।
+  ब्लॉकचेन प्रौद्योगिकी, मशीन लर्निंग, और चीजें उत्साही इंटरनेट।
+home.zhefeng.name.keep: Zhefeng Li
+home.zhefeng.title.keep: ब्लॉकचेन अभियंता
+stonevan.twitter: >-
+  मुझे अपने पहले टेस्टनेट का जश्न मनाकर आईओटेक्स से 100 मुफ्त अंक मिले
+  पूर्वावलोकन रिलीज। @iotex_io आओ और अपना जाओ!
+subscribe.btn: सदस्यता लें
+subscribe.desc: हमारी नवीनतम प्रगति और घटनाओं के साथ।
+subscribe.title: आधुनिक जानकारी से परिपूर्ण रहो
+testnet-preview.home-title: टेस्टनेट पूर्वावलोकन (StoneVan) जारी किया जाएगा
+testnet-preview.released-event-title: हमारे टेस्टनेट पूर्वावलोकन जारी किया गया है!
+testnet-preview.released-title: टेस्टनेट पूर्वावलोकन जारी किया गया है
+topbar.blog: ब्लॉग
+topbar.careers: करियर
+topbar.charity: दान पुण्य
+topbar.faq: सामान्य प्रश्न
+topbar.home: होम
+topbar.white-paper: WHITE PAPER
+whitepaper.button.next: अगला
+whitepaper.button.previous: पिछला
